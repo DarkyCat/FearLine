@@ -1,0 +1,4 @@
+https://github.com/NEZNAMY/TAB/releases/download/3.1.1/TAB.v3.1.1.jar
+https://github.com/MilkBowl/Vault/releases/download/1.7.3/Vault.jar
+https://ci.lucko.me/job/spark/lastSuccessfulBuild/artifact/spark-bukkit/build/libs/spark-1.8.17-bukkit.jar
+https://ci.lucko.me/job/LuckPerms/lastSuccessfulBuild/artifact/bukkit/loader/build/libs/LuckPerms-Bukkit-5.4.18.jar
